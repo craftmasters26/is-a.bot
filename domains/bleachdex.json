@@ -3,9 +3,6 @@
     "username": "craftmasters26"
   },
   "records": {
-    "NS": [
-      "aaa.ns.cloudflare.com",
-      "bbb.ns.cloudflare.com"
-    ]
+    "CNAME": "3d654b0a-8a96-4d7c-a8e5-67726c6d593f"
   }
 }
