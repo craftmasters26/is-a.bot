@@ -1,11 +1,11 @@
 {
-     "owner": {
-       "username": "craftmasters26"
-     },
-     "record": {
-       "NS": [
-         "aaa.ns.cloudflare.com",
-         "bbb.ns.cloudflare.com"
-       ]
-     }
-   }
+  "owner": {
+    "username": "craftmasters26"
+  },
+  "records": {
+    "NS": [
+      "aaa.ns.cloudflare.com",
+      "bbb.ns.cloudflare.com"
+    ]
+  }
+}
